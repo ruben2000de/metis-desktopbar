@@ -1,0 +1,21 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "Ruben (ruben2000de)"
+      }
+    ],
+    "Category": "Multimedia",
+    "Description": "Spotify-only panel player with a subtle live audio-spectrum curve",
+    "EnabledByDefault": true,
+    "Icon": "media-playback-start",
+    "Id": "io.github.ruben2000de.metisdesktopbar",
+    "Website": "https://github.com/ruben2000de/metis-desktopbar",
+    "BugReportUrl": "https://github.com/ruben2000de/metis-desktopbar/issues",
+    "License": "GPL-3.0-only",
+    "Name": "Metis Desktopbar",
+    "Version": "0.1.0"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0.4"
+}
